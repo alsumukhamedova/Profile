@@ -4,6 +4,9 @@
     max-width: 1600px;
     background-color: white;
 }
+a{
+    text-decoration: none;
+}
 .header{
     display: flex;
     flex-direction: row;

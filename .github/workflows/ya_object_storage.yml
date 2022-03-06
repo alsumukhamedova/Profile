@@ -1,0 +1,20 @@
+name: Deploy
+
+on:
+    push:
+        branches:
+            - master
+
+jobs:
+    deploy:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+            # Deploy
+            - uses: nekitcorp/yandex-storage-website-action@v1
+              with:
+                  accessKeyId: ${{ secrets.ACCESS_KEY_ID }}
+                  secretAccessKey: ${{ secrets.SECRET_ACCESS_KEY }}
+                  bucket: ${{ secrets.BUCKET }}
+                  path: "./build"
+                  clear: true

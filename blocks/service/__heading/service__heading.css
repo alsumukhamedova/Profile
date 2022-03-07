@@ -1,0 +1,11 @@
+.service__heading{
+    font-family: Montserrat, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 36px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #333333;
+    margin: 79px auto 73px;
+}

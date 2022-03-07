@@ -1,0 +1,10 @@
+.profile__subheading{
+    font-family: Montserrat, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 35px;
+    color: black;
+    margin: 25px 0 0;
+    text-align: left;
+}

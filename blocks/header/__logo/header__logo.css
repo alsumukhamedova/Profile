@@ -1,0 +1,7 @@
+.header__logo{
+    display: flex;
+    flex-direction: row;
+    margin: 12px 0;
+    height: 70px;
+    width: 65px;
+}

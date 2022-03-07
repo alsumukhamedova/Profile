@@ -1,0 +1,16 @@
+.intro__heading{
+    position: absolute;
+    width: 660px;
+    background: transparent;
+    height: 55px;
+    left: calc(50% - 672px/2);
+    top: 105px;
+    font-family: Montserrat, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 46px;
+    line-height: 55px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}

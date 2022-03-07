@@ -1,0 +1,9 @@
+.intro__line{
+    position: absolute;
+    height: 2px;
+    left: 45.74%;
+    right: 45.74%;
+    top: 245px;
+    background: #FFFFFF;
+    border-radius: 0;
+}

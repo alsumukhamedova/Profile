@@ -1,0 +1,10 @@
+.option__text{
+    font-family: Vollkorn, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
+    color: #333333;
+    width: 400px;
+    text-align: left;
+}

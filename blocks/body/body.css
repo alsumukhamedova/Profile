@@ -1,0 +1,14 @@
+html{
+    overflow-x: hidden;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    max-width: 1600px;
+    background-color: white;
+}
+
+a{
+    text-decoration: none;
+}

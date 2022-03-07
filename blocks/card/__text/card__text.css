@@ -1,0 +1,10 @@
+.card__text{
+    font-family: Vollkorn, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: left;
+    color: #333333;
+    margin: 4px auto 0;
+}

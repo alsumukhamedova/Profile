@@ -1,0 +1,10 @@
+.option__heading{
+    font-family: Montserrat, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #333333;
+}
